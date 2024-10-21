@@ -30,4 +30,4 @@ PvC Mode:
 
 <h3>Setup</h3>
 
-If you want to try the game out, to the right of the list of files, click "Releases".
+If you want to try the game out, to the right of the list of files, click "Releases" or just click <a href="https://github.com/MichaelArdisa/Pong-GameProg/releases/download/v1.0/NeonPong.zip">here</th>.
